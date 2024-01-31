@@ -39,6 +39,6 @@ OOP graphical app using graphics and keyboard/mouse listeners full user experenc
 ###  Point to draw lines
 OOP graphical app using graphics and keyboard/mouse listeners full user experence.
 
-![Gameplay]()
+![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/P1.png)
 
 [Source Code]()
