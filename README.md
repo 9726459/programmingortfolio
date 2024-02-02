@@ -36,7 +36,7 @@ OOP graphical app using timeline full user experience.
 ###  Conversion
 OOP graphical app using conversion to show full user experience.
 
-![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/co2.png)
+![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/co2.png?raw=true)
 
 ![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/co1.png?raw=true)
 
