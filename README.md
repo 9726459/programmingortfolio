@@ -45,6 +45,6 @@ OOP graphical app using conversion to show full user experience.
 ###  Point to draw lines
 OOP graphical app using point to draw lines full user experience.
 
-![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/P1.png)
+![Gameplay]([https://github.com/9726459/programmingortfolio/blob/main/images/P1.png](https://github.com/9726459/programmingortfolio/blob/main/images/P1.png))
 
 [Source Code](https://github.com/9726459/programmingortfolio/blob/main/scr/Point_to_Draw_Lines.pde.zip)
