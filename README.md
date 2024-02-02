@@ -29,7 +29,7 @@ OOP graphical app using graphics and keyboard/mouse listeners full user experien
 ###  Timeline
 OOP graphical app using timeline full user experience.
 
-![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/T1.png)
+![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/T1.png?raw=true)
 
 [Source Code](https://github.com/9726459/programmingortfolio/blob/main/scr/Timeline.pde.zip)
 
