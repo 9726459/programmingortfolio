@@ -22,7 +22,7 @@ OOP graphical game using sound and images for a full user experience.
 ###  Calculator
 OOP graphical app using graphics and keyboard/mouse listeners full user experience.
 
-![Screen](https://github.com/9726459/programmingortfolio/blob/main/images/c1.png)
+![Screen](https://github.com/9726459/programmingortfolio/blob/main/images/c1.png?raw=true)
 
 [Source Code](https://github.com/9726459/programmingortfolio/blob/main/scr/CalculatorKeyboard%202.zip)
 
