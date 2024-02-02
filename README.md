@@ -11,7 +11,7 @@
 ###  SpaceGame
 OOP graphical game using sound and images for a full user experience.
 
-![Start Screen]()
+![Start Screen](https://github.com/9726459/programmingortfolio/blob/main/images/sg2.png?raw=true)
 
 ![Gameplay](https://github.com/9726459/programmingortfolio/blob/main/images/sg3.png?raw=true)
 
