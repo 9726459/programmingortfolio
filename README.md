@@ -49,3 +49,12 @@ OOP graphical app using point to draw lines full user experience.
 ![draw line](https://github.com/9726459/programmingortfolio/blob/main/images/P1.png?raw=true)
 
 [Source Code](https://github.com/9726459/programmingortfolio/blob/main/scr/Point_to_Draw_Lines.pde.zip)
+
+
+### UI and Logic Planning
+
+
+ Project Description
+The Car Rental System is a software application designed to facilitate the rental of cars to customers. The system provides functionality for managing car inventory, customer information, and rental transactions.
+
+[Source Code](https://github.com/9726459/programming/settings)
